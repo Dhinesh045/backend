@@ -1,7 +1,7 @@
 Java Works
    Writing Source code:
    Developers with java source code using a text editor or an integrated Development envirionment(IDE).
-   Java code written in a plain text and its organised into classes,each containing methods and fields.
+   Java code written in a plain text and it's organised into classes,each containing methods and fields.
 
    Compilation:
    When the source code is ready, it needs to be compiled. Java source code is compiled into bytecode, which is a platform-independent intermediate representation. The Java compiler (javac) takes the source code and generates bytecode files with a .class extension.
@@ -35,3 +35,14 @@ Java Works
 
    Debugging and Profiling:
    During development, developers can use debugging tools and profilers to diagnose issues in their code and analyze its performance. These tools help in identifying and fixing bugs and optimizing code.
+
+\\Hello World Program\\
+
+  public class hello {
+
+	public static void main(String[] args) {
+		System.out.print("Hello World");
+
+	}
+
+  }
