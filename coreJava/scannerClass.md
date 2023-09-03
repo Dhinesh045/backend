@@ -37,6 +37,6 @@ in.close();
 
 **Output:**
 
-Enter your name: sonoo jaiswal
+Enter your name: Dhinesh
 
-Name is: sonoo jaiswal
+Name is: Dhinesh
